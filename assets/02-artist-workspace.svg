@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="#ffffff"/>
+<rect x="70" y="70" width="1260" height="660" rx="28" fill="#f3f5f3" stroke="#d9dfda"/>
+<rect x="100" y="100" width="230" height="600" rx="18" fill="#18221c"/>
+<text x="130" y="155" font-family="Arial" font-size="30" fill="#fff" font-weight="700">ARTBANK</text>
+<text x="380" y="160" font-family="Georgia, serif" font-size="58" fill="#111814">Artist Workspace</text>
+<text x="380" y="215" font-family="Arial" font-size="26" fill="#59655d">Replace with artist dashboard / artwork management screenshot.</text>
+<rect x="380" y="285" width="270" height="150" rx="16" fill="#ffffff" stroke="#d8ded9"/>
+<rect x="680" y="285" width="270" height="150" rx="16" fill="#ffffff" stroke="#d8ded9"/>
+<rect x="980" y="285" width="270" height="150" rx="16" fill="#ffffff" stroke="#d8ded9"/>
+<rect x="380" y="480" width="870" height="150" rx="16" fill="#ffffff" stroke="#d8ded9"/>
+</svg>
