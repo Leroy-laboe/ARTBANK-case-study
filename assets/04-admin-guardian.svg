@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="#f7f8f7"/>
+<text x="80" y="125" font-family="Georgia, serif" font-size="64" fill="#111814">Guardian &amp; Admin</text>
+<text x="80" y="180" font-family="Arial" font-size="26" fill="#68736c">Replace with guardian oversight and admin management screenshots.</text>
+<rect x="80" y="245" width="610" height="420" rx="24" fill="#ffffff" stroke="#d9dfda"/>
+<rect x="710" y="245" width="610" height="420" rx="24" fill="#ffffff" stroke="#d9dfda"/>
+<text x="120" y="310" font-family="Arial" font-size="30" fill="#26372d" font-weight="700">Guardian Oversight</text>
+<text x="750" y="310" font-family="Arial" font-size="30" fill="#26372d" font-weight="700">Administrator Tools</text>
+<rect x="120" y="355" width="520" height="55" rx="12" fill="#eef2ef"/>
+<rect x="120" y="430" width="520" height="55" rx="12" fill="#eef2ef"/>
+<rect x="750" y="355" width="520" height="55" rx="12" fill="#eef2ef"/>
+<rect x="750" y="430" width="520" height="55" rx="12" fill="#eef2ef"/>
+</svg>
