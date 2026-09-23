@@ -1,12 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
-<rect width="1400" height="800" fill="#ffffff"/>
-<rect x="70" y="70" width="1260" height="660" rx="28" fill="#f3f5f3" stroke="#d9dfda"/>
-<rect x="100" y="100" width="230" height="600" rx="18" fill="#18221c"/>
-<text x="130" y="155" font-family="Arial" font-size="30" fill="#fff" font-weight="700">ARTBANK</text>
-<text x="380" y="160" font-family="Georgia, serif" font-size="58" fill="#111814">Artist Workspace</text>
-<text x="380" y="215" font-family="Arial" font-size="26" fill="#59655d">Replace with artist dashboard / artwork management screenshot.</text>
-<rect x="380" y="285" width="270" height="150" rx="16" fill="#ffffff" stroke="#d8ded9"/>
-<rect x="680" y="285" width="270" height="150" rx="16" fill="#ffffff" stroke="#d8ded9"/>
-<rect x="980" y="285" width="270" height="150" rx="16" fill="#ffffff" stroke="#d8ded9"/>
-<rect x="380" y="480" width="870" height="150" rx="16" fill="#ffffff" stroke="#d8ded9"/>
+<rect width="1400" height="800" fill="#fbfaf7"/>
+<text x="70" y="95" font-family="Georgia,serif" font-size="34" fill="#17130f">artbank</text>
+<text x="70" y="170" font-family="Georgia,serif" font-size="58" fill="#17130f">Artist workspace</text>
+<text x="70" y="213" font-family="Arial,sans-serif" font-size="20" fill="#766d65">Dashboard presentation mockup based on the live creator workspace</text>
+<rect x="70" y="250" width="1260" height="475" rx="22" fill="#fff" stroke="#e7dfd3"/>
+<rect x="70" y="250" width="205" height="475" rx="22" fill="#fffaf3"/>
+<text x="98" y="295" font-family="Georgia,serif" font-size="26" fill="#17130f">artbank</text>
+<text x="98" y="345" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#9a8c7c">ARTSPACE</text>
+<text x="98" y="380" font-family="Arial,sans-serif" font-size="16" fill="#8b652f">⌂  Today</text>
+<text x="98" y="415" font-family="Arial,sans-serif" font-size="16" fill="#302821">▧  My Works</text>
+<text x="98" y="450" font-family="Arial,sans-serif" font-size="16" fill="#302821">◉  Interest</text>
+<text x="98" y="485" font-family="Arial,sans-serif" font-size="16" fill="#302821">▣  Opportunities</text>
+<text x="98" y="520" font-family="Arial,sans-serif" font-size="16" fill="#302821">▭  Messages</text>
+<rect x="94" y="548" width="155" height="38" rx="8" fill="#16120f"/><text x="171" y="573" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#fff">+ Add Artwork</text>
+<text x="310" y="300" font-family="Georgia,serif" font-size="28" fill="#17130f">Good morning, Leroy 👋</text>
+<text x="310" y="328" font-family="Arial,sans-serif" font-size="15" fill="#766d65">Here’s what’s happening with your art and opportunities today.</text>
+<rect x="310" y="360" width="655" height="105" rx="14" fill="#fffdf8" stroke="#e9e2d7"/>
+<text x="335" y="392" font-family="Georgia,serif" font-size="18" fill="#17130f">Needs Your Decision</text>
+<rect x="335" y="410" width="190" height="36" rx="8" fill="#f7f0e5"/><text x="350" y="433" font-family="Arial,sans-serif" font-size="13" fill="#302821">Acquisition enquiry · Reply</text>
+<rect x="540" y="410" width="190" height="36" rx="8" fill="#f7f0e5"/><text x="555" y="433" font-family="Arial,sans-serif" font-size="13" fill="#302821">Artwork info · Complete</text>
+<rect x="745" y="410" width="190" height="36" rx="8" fill="#f7f0e5"/><text x="760" y="433" font-family="Arial,sans-serif" font-size="13" fill="#302821">Acquisition enquiry · Reply</text>
+<rect x="310" y="485" width="655" height="128" rx="14" fill="#fffdf8" stroke="#e9e2d7"/>
+<text x="335" y="517" font-family="Georgia,serif" font-size="18" fill="#17130f">Artwork Action Plan</text>
+<line x1="335" y1="545" x2="930" y2="545" stroke="#eee6dc"/>
+<text x="335" y="568" font-family="Arial,sans-serif" font-size="13" fill="#7d736b">DOCUMENTED</text><text x="455" y="568" font-family="Arial,sans-serif" font-size="14" fill="#302821">Untitled · Add dimensions</text>
+<line x1="335" y1="585" x2="930" y2="585" stroke="#eee6dc"/>
+<text x="335" y="607" font-family="Arial,sans-serif" font-size="13" fill="#9a6f37">PRESENTABLE</text><text x="455" y="607" font-family="Arial,sans-serif" font-size="14" fill="#302821">Fragments of Quiet #2 · Add ownership statement</text>
+<rect x="995" y="360" width="295" height="160" rx="14" fill="#fffdf8" stroke="#e9e2d7"/>
+<text x="1020" y="392" font-family="Georgia,serif" font-size="18" fill="#17130f">Professional Readiness</text>
+<circle cx="1045" cy="447" r="35" fill="none" stroke="#e6ded2" stroke-width="8"/><circle cx="1045" cy="447" r="35" fill="none" stroke="#315847" stroke-width="8" stroke-dasharray="130 90" transform="rotate(-90 1045 447)"/>
+<text x="1045" y="452" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#17130f">60%</text>
+<text x="1100" y="435" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#17130f">Building</text>
+<text x="1100" y="460" font-family="Arial,sans-serif" font-size="13" fill="#766d65">A few more details</text>
+<rect x="995" y="540" width="295" height="73" rx="14" fill="#fffdf8" stroke="#e9e2d7"/>
+<text x="1020" y="570" font-family="Georgia,serif" font-size="17" fill="#17130f">Money and Rights</text>
+<text x="1020" y="596" font-family="Arial,sans-serif" font-size="14" fill="#302821">USD 4,000 · 2 transactions</text>
 </svg>
