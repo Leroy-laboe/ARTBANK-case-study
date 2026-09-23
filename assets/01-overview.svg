@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="#f7f7f4"/>
+<rect x="70" y="70" width="1260" height="660" rx="28" fill="#111814"/>
+<text x="120" y="150" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#ffffff" font-weight="700">ARTBANK</text>
+<text x="120" y="240" font-family="Georgia, serif" font-size="66" fill="#ffffff">Product Overview</text>
+<text x="120" y="310" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#cfd8d1">Replace this file with your final landing / marketplace screenshot.</text>
+<rect x="120" y="380" width="330" height="210" rx="16" fill="#26372d"/>
+<rect x="475" y="380" width="330" height="210" rx="16" fill="#33463a"/>
+<rect x="830" y="380" width="330" height="210" rx="16" fill="#415847"/>
+<circle cx="1225" cy="120" r="14" fill="#6e8f77"/>
+</svg>
