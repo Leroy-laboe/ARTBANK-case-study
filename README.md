@@ -8,7 +8,7 @@
 
 ---
 
-![ARTBANK overview placeholder](assets/01-overview.svg)
+![ARTBANK product overview](assets/01-overview.svg)
 
 ## What is ARTBANK?
 
@@ -57,7 +57,7 @@ The system includes:
 
 Artists can manage their profile, document artwork, control what is public, respond to enquiries, manage conversations, create viewing experiences, and track sales activity.
 
-![Artist workspace placeholder](assets/02-artist-workspace.svg)
+![ARTBANK artist workspace](assets/02-artist-workspace.svg)
 
 ---
 
@@ -65,7 +65,7 @@ Artists can manage their profile, document artwork, control what is public, resp
 
 Buyers can discover artwork, save pieces, view public artist profiles, send structured enquiries, communicate with artists, and track purchase activity.
 
-![Buyer workspace placeholder](assets/03-buyer-workspace.svg)
+![ARTBANK marketplace and discovery](assets/03-buyer-workspace.svg)
 
 ---
 
@@ -291,14 +291,14 @@ It pushed me beyond building interfaces and made me think about:
 
 ## Screenshots
 
-These placeholders will be replaced with final screenshots from the live product.
+The visuals below are polished presentation mockups based directly on the live ARTBANK screens. They simplify framing and crop for readability, but they do not introduce functionality that is not present in the product.
 
 | Product Area | Preview |
 | --- | --- |
 | Product Overview | ![Overview](assets/01-overview.svg) |
 | Artist Workspace | ![Artist](assets/02-artist-workspace.svg) |
-| Buyer Experience | ![Buyer](assets/03-buyer-workspace.svg) |
-| Guardian / Admin | ![Admin](assets/04-admin-guardian.svg) |
+| Marketplace & Discovery | ![Marketplace](assets/03-buyer-workspace.svg) |
+| Communication & Support | ![Messages and Help Center](assets/04-admin-guardian.svg) |
 | Architecture | ![Architecture](assets/05-architecture.svg) |
 
 ---
