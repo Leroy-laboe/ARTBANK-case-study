@@ -8,7 +8,7 @@
 
 ---
 
-![ARTBANK product overview](assets/01-overview.svg)
+![ARTBANK product overview](assets/artbank_creative_economy_showcase.png)
 
 ## What is ARTBANK?
 
@@ -57,7 +57,7 @@ The system includes:
 
 Artists can manage their profile, document artwork, control what is public, respond to enquiries, manage conversations, create viewing experiences, and track sales activity.
 
-![ARTBANK artist workspace](assets/02-artist-workspace.svg)
+![ARTBANK artist workspace](assets/artbank_creator_dashboard_showcase.png)
 
 ---
 
@@ -65,7 +65,7 @@ Artists can manage their profile, document artwork, control what is public, resp
 
 Buyers can discover artwork, save pieces, view public artist profiles, send structured enquiries, communicate with artists, and track purchase activity.
 
-![ARTBANK marketplace and discovery](assets/03-buyer-workspace.svg)
+![ARTBANK marketplace and discovery](assets/artbank_discover_extraordinary_art.png)
 
 ---
 
@@ -73,7 +73,7 @@ Buyers can discover artwork, save pieces, view public artist profiles, send stru
 
 The platform includes guardian oversight for protected minor accounts and separate administrator tools for platform operations, user management, moderation, records, and support.
 
-![ARTBANK messaging and support showcase](assets/04-admin-guardian.svg)
+![ARTBANK messaging and support showcase](assets/artbank_communication_and_support_showcase.png)
 
 ---
 
@@ -295,11 +295,10 @@ The visuals below are polished presentation mockups based directly on the live A
 
 | Product Area | Preview |
 | --- | --- |
-| Product Overview | ![Overview](assets/01-overview.svg) |
-| Artist Workspace | ![Artist](assets/02-artist-workspace.svg) |
-| Marketplace & Discovery | ![Marketplace](assets/03-buyer-workspace.svg) |
-| Communication & Support | ![Messages and Help Center](assets/04-admin-guardian.svg) |
-| Architecture | ![Architecture](assets/05-architecture.svg) |
+| Product Overview | ![Overview](assets/artbank_creative_economy_showcase.png) |
+| Artist Workspace | ![Artist](assets/artbank_creator_dashboard_showcase.png) |
+| Marketplace & Discovery | ![Marketplace](assets/artbank_discover_extraordinary_art.png) |
+| Communication & Support | ![Messages and Help Center](assets/artbank_communication_and_support_showcase.png) |
 
 ---
 
