@@ -1,13 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
-<rect width="1400" height="800" fill="#f7f8f7"/>
-<text x="80" y="125" font-family="Georgia, serif" font-size="64" fill="#111814">Guardian &amp; Admin</text>
-<text x="80" y="180" font-family="Arial" font-size="26" fill="#68736c">Replace with guardian oversight and admin management screenshots.</text>
-<rect x="80" y="245" width="610" height="420" rx="24" fill="#ffffff" stroke="#d9dfda"/>
-<rect x="710" y="245" width="610" height="420" rx="24" fill="#ffffff" stroke="#d9dfda"/>
-<text x="120" y="310" font-family="Arial" font-size="30" fill="#26372d" font-weight="700">Guardian Oversight</text>
-<text x="750" y="310" font-family="Arial" font-size="30" fill="#26372d" font-weight="700">Administrator Tools</text>
-<rect x="120" y="355" width="520" height="55" rx="12" fill="#eef2ef"/>
-<rect x="120" y="430" width="520" height="55" rx="12" fill="#eef2ef"/>
-<rect x="750" y="355" width="520" height="55" rx="12" fill="#eef2ef"/>
-<rect x="750" y="430" width="520" height="55" rx="12" fill="#eef2ef"/>
+<rect width="1400" height="800" fill="#fbfaf7"/>
+<text x="70" y="95" font-family="Georgia,serif" font-size="34" fill="#17130f">artbank</text>
+<text x="70" y="170" font-family="Georgia,serif" font-size="58" fill="#17130f">Communication &amp; support</text>
+<text x="70" y="212" font-family="Arial,sans-serif" font-size="20" fill="#766d65">Presentation mockup based on the live Messages and Help Center screens</text>
+<rect x="70" y="260" width="760" height="455" rx="20" fill="#fff" stroke="#e7dfd3"/>
+<text x="100" y="310" font-family="Georgia,serif" font-size="28" fill="#17130f">Messages</text>
+<text x="100" y="338" font-family="Arial,sans-serif" font-size="14" fill="#766d65">Communicate with galleries, collectors and partners.</text>
+<rect x="100" y="375" width="190" height="300" rx="10" fill="#fbf8f3" stroke="#e7dfd3"/>
+<text x="120" y="410" font-family="Arial,sans-serif" font-size="14" fill="#17130f">Search messages...</text>
+<circle cx="132" cy="462" r="18" fill="#17130f"/><text x="132" y="468" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#fff">N</text>
+<text x="160" y="458" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#17130f">Nyasha</text><text x="160" y="480" font-family="Arial,sans-serif" font-size="12" fill="#766d65">Artwork enquiry</text>
+<circle cx="132" cy="535" r="18" fill="#b8894c"/><text x="132" y="541" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#fff">N</text>
+<text x="160" y="531" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#17130f">Nyasha</text><text x="160" y="553" font-family="Arial,sans-serif" font-size="12" fill="#766d65">Conversation</text>
+<rect x="315" y="375" width="485" height="300" rx="10" fill="#fffdf9" stroke="#e7dfd3"/>
+<text x="340" y="410" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#17130f">Nyasha · Contact · Albania</text>
+<rect x="340" y="455" width="180" height="50" rx="16" fill="#fff" stroke="#e7dfd3"/><text x="355" y="485" font-family="Arial,sans-serif" font-size="13" fill="#4e443a">is this available</text>
+<rect x="490" y="525" width="270" height="68" rx="16" fill="#f5e8cf"/><text x="510" y="552" font-family="Arial,sans-serif" font-size="13" fill="#4e443a">Thank you for your interest in Echoes —</text><text x="510" y="574" font-family="Arial,sans-serif" font-size="13" fill="#4e443a">it's still available.</text>
+<rect x="340" y="625" width="360" height="34" rx="8" fill="#fff" stroke="#e7dfd3"/><text x="355" y="647" font-family="Arial,sans-serif" font-size="12" fill="#9a8c7c">Type your message...</text>
+<rect x="860" y="290" width="470" height="425" rx="20" fill="#fff" stroke="#e7dfd3"/>
+<text x="890" y="340" font-family="Georgia,serif" font-size="28" fill="#17130f">Help Center</text>
+<text x="890" y="368" font-family="Arial,sans-serif" font-size="14" fill="#766d65">Submit a ticket and the ArtBank team will follow up here.</text>
+<rect x="890" y="410" width="410" height="120" rx="12" fill="#fffdf9" stroke="#e7dfd3"/>
+<text x="910" y="440" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#17130f">I can't upload an artwork</text><rect x="1215" y="425" width="64" height="24" rx="12" fill="#e4f1e7"/><text x="1247" y="442" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#257345">Resolved</text>
+<text x="910" y="475" font-family="Arial,sans-serif" font-size="12" fill="#766d65">Artist: I'm trying to upload my new artwork but it's not working.</text>
+<text x="910" y="505" font-family="Arial,sans-serif" font-size="12" fill="#766d65">Support: Please try again after the issue is resolved.</text>
+<rect x="890" y="550" width="410" height="44" rx="10" fill="#fffdf9" stroke="#e7dfd3"/><text x="910" y="577" font-family="Arial,sans-serif" font-size="13" fill="#302821">Can't upload evidence file for COA request</text>
+<rect x="890" y="608" width="410" height="44" rx="10" fill="#fffdf9" stroke="#e7dfd3"/><text x="910" y="635" font-family="Arial,sans-serif" font-size="13" fill="#302821">Payment for a recorded sale hasn't arrived</text>
+<rect x="890" y="666" width="410" height="34" rx="8" fill="#f5e8cf"/><text x="910" y="688" font-family="Arial,sans-serif" font-size="12" fill="#6f5632">Dedicated support channel</text>
 </svg>
