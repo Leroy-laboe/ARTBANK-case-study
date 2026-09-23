@@ -1,11 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
-<rect width="1400" height="800" fill="#f7f7f4"/>
-<rect x="70" y="70" width="1260" height="660" rx="28" fill="#111814"/>
-<text x="120" y="150" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#ffffff" font-weight="700">ARTBANK</text>
-<text x="120" y="240" font-family="Georgia, serif" font-size="66" fill="#ffffff">Product Overview</text>
-<text x="120" y="310" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#cfd8d1">Replace this file with your final landing / marketplace screenshot.</text>
-<rect x="120" y="380" width="330" height="210" rx="16" fill="#26372d"/>
-<rect x="475" y="380" width="330" height="210" rx="16" fill="#33463a"/>
-<rect x="830" y="380" width="330" height="210" rx="16" fill="#415847"/>
-<circle cx="1225" cy="120" r="14" fill="#6e8f77"/>
+<rect width="1400" height="800" fill="#faf8f3"/>
+<text x="70" y="95" font-family="Georgia,serif" font-size="34" fill="#17130f">artbank</text>
+<text x="70" y="175" font-family="Georgia,serif" font-size="62" fill="#17130f">A professional home for art.</text>
+<text x="70" y="222" font-family="Arial,sans-serif" font-size="22" fill="#6d6258">Public product experience · presentation mockup based on the live ARTBANK UI</text>
+<rect x="70" y="270" width="1260" height="455" rx="24" fill="#fff" stroke="#e6ded2"/>
+<rect x="70" y="270" width="1260" height="42" rx="24" fill="#f1eee8"/>
+<circle cx="96" cy="291" r="6" fill="#e66f61"/><circle cx="116" cy="291" r="6" fill="#e8b44d"/><circle cx="136" cy="291" r="6" fill="#61b56f"/>
+<text x="650" y="297" font-family="Arial,sans-serif" font-size="14" fill="#766d65">artbank-seven.vercel.app</text>
+<rect x="92" y="332" width="1216" height="220" rx="10" fill="#d8b084"/>
+<rect x="92" y="332" width="1216" height="220" rx="10" fill="url(#g)" opacity=".7"/>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#efe2ce"/><stop offset="1" stop-color="#7d5637"/></linearGradient></defs>
+<text x="125" y="380" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#6b513e">THE CREATIVE ECONOMY BELONGS TO EVERY ARTIST</text>
+<text x="125" y="425" font-family="Georgia,serif" font-size="44" fill="#17130f">Make Every Artwork</text>
+<text x="125" y="468" font-family="Georgia,serif" font-size="44" fill="#17130f">Easier to Prove, Present</text>
+<text x="125" y="511" font-family="Georgia,serif" font-size="44" fill="#17130f">and Earn From</text>
+<rect x="125" y="525" width="180" height="38" rx="19" fill="#15110e"/>
+<text x="215" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#fff">Publish My Artwork →</text>
+<rect x="780" y="350" width="460" height="180" rx="8" fill="#8a623f"/>
+<rect x="813" y="370" width="394" height="140" rx="4" fill="#d9aa63" stroke="#5f4029" stroke-width="14"/>
+<rect x="840" y="390" width="340" height="100" fill="#191918"/>
+<text x="1040" y="448" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#e9c37b">ARTWORK</text>
+<rect x="92" y="575" width="380" height="118" rx="14" fill="#fbfaf7" stroke="#e6ded2"/>
+<rect x="500" y="575" width="380" height="118" rx="14" fill="#fbfaf7" stroke="#e6ded2"/>
+<rect x="908" y="575" width="400" height="118" rx="14" fill="#fbfaf7" stroke="#e6ded2"/>
+<text x="118" y="610" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#17130f">Tools and evidence</text>
+<text x="118" y="637" font-family="Arial,sans-serif" font-size="14" fill="#766d65">Document work and build a professional record.</text>
+<text x="526" y="610" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#17130f">Find the right audience</text>
+<text x="526" y="637" font-family="Arial,sans-serif" font-size="14" fill="#766d65">Connect with collectors, curators and institutions.</text>
+<text x="934" y="610" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#17130f">A creative community</text>
+<text x="934" y="637" font-family="Arial,sans-serif" font-size="14" fill="#766d65">One ecosystem for artists, buyers and partners.</text>
 </svg>
