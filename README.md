@@ -2,7 +2,7 @@
 
 **A full-stack digital art ecosystem built from the ground up during my software development internship.**
 
-[Live Product](https://artbank-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/leroy-nyasha-mangwarara-86185a302/) · [GitHub Profile](https://github.com/Leroy-laboe)
+[Live Product](https://artbank.world/) · [LinkedIn](https://www.linkedin.com/in/leroy-nyasha-mangwarara-86185a302/) · [GitHub Profile](https://github.com/Leroy-laboe)
 
 > **Source code is private.** This public repository is a technical case study and product showcase. It documents the product, architecture, workflows, and engineering decisions without exposing the implementation source.
 
@@ -304,7 +304,7 @@ The visuals below are polished presentation mockups based directly on the live A
 
 ## Live Product
 
-### [Open ARTBANK →](https://artbank-seven.vercel.app/)
+### [Open ARTBANK →](https://artbank.world/)
 
 ---
 
