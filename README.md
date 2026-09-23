@@ -73,7 +73,7 @@ Buyers can discover artwork, save pieces, view public artist profiles, send stru
 
 The platform includes guardian oversight for protected minor accounts and separate administrator tools for platform operations, user management, moderation, records, and support.
 
-![Admin and guardian placeholder](assets/04-admin-guardian.svg)
+![ARTBANK messaging and support showcase](assets/04-admin-guardian.svg)
 
 ---
 
