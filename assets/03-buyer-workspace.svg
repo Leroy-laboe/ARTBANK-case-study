@@ -1,11 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
-<rect width="1400" height="800" fill="#ffffff"/>
-<text x="80" y="125" font-family="Georgia, serif" font-size="64" fill="#111814">Buyer Experience</text>
-<text x="80" y="180" font-family="Arial" font-size="26" fill="#68736c">Replace with marketplace / saved works / purchase screenshot.</text>
-<rect x="80" y="240" width="390" height="430" rx="22" fill="#f4f6f4" stroke="#dce2dd"/>
-<rect x="505" y="240" width="390" height="430" rx="22" fill="#f4f6f4" stroke="#dce2dd"/>
-<rect x="930" y="240" width="390" height="430" rx="22" fill="#f4f6f4" stroke="#dce2dd"/>
-<rect x="115" y="280" width="320" height="250" rx="14" fill="#bfcbbf"/>
-<rect x="540" y="280" width="320" height="250" rx="14" fill="#aebcab"/>
-<rect x="965" y="280" width="320" height="250" rx="14" fill="#cfd7cf"/>
+<rect width="1400" height="800" fill="#fbfaf7"/>
+<text x="70" y="95" font-family="Georgia,serif" font-size="34" fill="#17130f">artbank</text>
+<text x="70" y="170" font-family="Georgia,serif" font-size="58" fill="#17130f">Marketplace &amp; discovery</text>
+<text x="70" y="212" font-family="Arial,sans-serif" font-size="20" fill="#766d65">Presentation mockup based on the live artwork marketplace and artists directory</text>
+<rect x="70" y="250" width="790" height="480" rx="20" fill="#fff" stroke="#e7dfd3"/>
+<rect x="70" y="250" width="790" height="40" rx="20" fill="#f2eee8"/>
+<circle cx="94" cy="270" r="5" fill="#e66f61"/><circle cx="112" cy="270" r="5" fill="#e8b44d"/><circle cx="130" cy="270" r="5" fill="#61b56f"/>
+<rect x="95" y="315" width="155" height="390" rx="10" fill="#fffaf4" stroke="#ece4d9"/>
+<text x="115" y="345" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#17130f">FILTERS</text>
+<text x="115" y="390" font-family="Arial,sans-serif" font-size="14" fill="#4d443c">Painting</text><text x="115" y="420" font-family="Arial,sans-serif" font-size="14" fill="#4d443c">Sculpture</text><text x="115" y="450" font-family="Arial,sans-serif" font-size="14" fill="#4d443c">Photography</text><text x="115" y="480" font-family="Arial,sans-serif" font-size="14" fill="#4d443c">Digital Art</text><text x="115" y="510" font-family="Arial,sans-serif" font-size="14" fill="#4d443c">Illustration</text>
+<rect x="110" y="640" width="125" height="34" rx="8" fill="#17130f"/><text x="172" y="662" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#fff">Apply Filters</text>
+<text x="280" y="340" font-family="Georgia,serif" font-size="32" fill="#17130f">Collect original artworks.</text>
+<rect x="280" y="365" width="535" height="38" rx="19" fill="#fbf8f3" stroke="#e7dfd3"/><text x="302" y="390" font-family="Arial,sans-serif" font-size="14" fill="#95897d">Search artworks, artists, or styles...</text>
+<g>
+<rect x="280" y="435" width="122" height="118" rx="10" fill="#efeae4"/><rect x="410" y="435" width="122" height="118" rx="10" fill="#17142e"/><rect x="540" y="435" width="122" height="118" rx="10" fill="#9f9c98"/><rect x="670" y="435" width="122" height="118" rx="10" fill="#f0c35d"/>
+<text x="290" y="577" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#17130f">Quiet Surface</text><text x="420" y="577" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#17130f">Neon Memory</text><text x="550" y="577" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#17130f">Still Life</text><text x="680" y="577" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#17130f">The Little House</text>
+<rect x="280" y="600" width="122" height="80" rx="10" fill="#1d4970"/><rect x="410" y="600" width="122" height="80" rx="10" fill="#d6b351"/><rect x="540" y="600" width="122" height="80" rx="10" fill="#d85455"/><rect x="670" y="600" width="122" height="80" rx="10" fill="#8a7251"/>
+</g>
+<rect x="890" y="285" width="440" height="445" rx="20" fill="#fff" stroke="#e7dfd3"/>
+<text x="920" y="335" font-family="Georgia,serif" font-size="32" fill="#17130f">Artists</text>
+<text x="920" y="365" font-family="Arial,sans-serif" font-size="14" fill="#766d65">Discover artists and the work behind their profile.</text>
+<g fill="#e7e7e7">
+<rect x="920" y="410" width="115" height="135" rx="12"/><rect x="1050" y="410" width="115" height="135" rx="12"/><rect x="1180" y="410" width="115" height="135" rx="12"/>
+<rect x="920" y="565" width="115" height="135" rx="12"/><rect x="1050" y="565" width="115" height="135" rx="12"/><rect x="1180" y="565" width="115" height="135" rx="12"/>
+</g>
+<text x="935" y="530" font-family="Arial,sans-serif" font-size="13" fill="#302821">Artist profile</text><text x="1065" y="530" font-family="Arial,sans-serif" font-size="13" fill="#302821">Artist profile</text><text x="1195" y="530" font-family="Arial,sans-serif" font-size="13" fill="#302821">Artist profile</text>
 </svg>
