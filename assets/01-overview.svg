@@ -1,32 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
-<rect width="1400" height="800" fill="#faf8f3"/>
-<text x="70" y="95" font-family="Georgia,serif" font-size="34" fill="#17130f">artbank</text>
-<text x="70" y="175" font-family="Georgia,serif" font-size="62" fill="#17130f">A professional home for art.</text>
-<text x="70" y="222" font-family="Arial,sans-serif" font-size="22" fill="#6d6258">Public product experience · presentation mockup based on the live ARTBANK UI</text>
-<rect x="70" y="270" width="1260" height="455" rx="24" fill="#fff" stroke="#e6ded2"/>
-<rect x="70" y="270" width="1260" height="42" rx="24" fill="#f1eee8"/>
-<circle cx="96" cy="291" r="6" fill="#e66f61"/><circle cx="116" cy="291" r="6" fill="#e8b44d"/><circle cx="136" cy="291" r="6" fill="#61b56f"/>
-<text x="650" y="297" font-family="Arial,sans-serif" font-size="14" fill="#766d65">artbank-seven.vercel.app</text>
-<rect x="92" y="332" width="1216" height="220" rx="10" fill="#d8b084"/>
-<rect x="92" y="332" width="1216" height="220" rx="10" fill="url(#g)" opacity=".7"/>
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#efe2ce"/><stop offset="1" stop-color="#7d5637"/></linearGradient></defs>
-<text x="125" y="380" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#6b513e">THE CREATIVE ECONOMY BELONGS TO EVERY ARTIST</text>
-<text x="125" y="425" font-family="Georgia,serif" font-size="44" fill="#17130f">Make Every Artwork</text>
-<text x="125" y="468" font-family="Georgia,serif" font-size="44" fill="#17130f">Easier to Prove, Present</text>
-<text x="125" y="511" font-family="Georgia,serif" font-size="44" fill="#17130f">and Earn From</text>
-<rect x="125" y="525" width="180" height="38" rx="19" fill="#15110e"/>
-<text x="215" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#fff">Publish My Artwork →</text>
-<rect x="780" y="350" width="460" height="180" rx="8" fill="#8a623f"/>
-<rect x="813" y="370" width="394" height="140" rx="4" fill="#d9aa63" stroke="#5f4029" stroke-width="14"/>
-<rect x="840" y="390" width="340" height="100" fill="#191918"/>
-<text x="1040" y="448" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#e9c37b">ARTWORK</text>
-<rect x="92" y="575" width="380" height="118" rx="14" fill="#fbfaf7" stroke="#e6ded2"/>
-<rect x="500" y="575" width="380" height="118" rx="14" fill="#fbfaf7" stroke="#e6ded2"/>
-<rect x="908" y="575" width="400" height="118" rx="14" fill="#fbfaf7" stroke="#e6ded2"/>
-<text x="118" y="610" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#17130f">Tools and evidence</text>
-<text x="118" y="637" font-family="Arial,sans-serif" font-size="14" fill="#766d65">Document work and build a professional record.</text>
-<text x="526" y="610" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#17130f">Find the right audience</text>
-<text x="526" y="637" font-family="Arial,sans-serif" font-size="14" fill="#766d65">Connect with collectors, curators and institutions.</text>
-<text x="934" y="610" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#17130f">A creative community</text>
-<text x="934" y="637" font-family="Arial,sans-serif" font-size="14" fill="#766d65">One ecosystem for artists, buyers and partners.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-opacity=".12"/></filter></defs>
+<rect width="1600" height="900" fill="#fbfaf7"/>
+<text x="60" y="80" font-family="Georgia,serif" font-size="42" fill="#17130f">artbank</text>
+<text x="60" y="210" font-family="Georgia,serif" font-size="62" fill="#18130f">A professional</text>
+<text x="60" y="280" font-family="Georgia,serif" font-size="62" fill="#18130f">home for <tspan fill="#9c6b32">art.</tspan></text>
+<text x="60" y="350" font-family="Arial,sans-serif" font-size="25" fill="#6e685f">Connect, document and grow your creative practice.</text>
+<g font-family="Arial,sans-serif" font-size="23" fill="#2f2a25">
+<text x="80" y="455">▣  Showcase your work</text><text x="80" y="515">◎  Find opportunities</text>
+<text x="80" y="575">♙  Build your network</text><text x="80" y="635">?  Access expert support</text></g>
+<g filter="url(#s)">
+<rect x="430" y="55" rx="22" width="880" height="730" fill="#fff" stroke="#d8d1c8"/>
+<rect x="430" y="55" rx="22" width="880" height="48" fill="#f1efeb"/>
+<circle cx="460" cy="79" r="7" fill="#ef6a5a"/><circle cx="485" cy="79" r="7" fill="#e9b84e"/><circle cx="510" cy="79" r="7" fill="#58ad67"/>
+<rect x="660" y="67" rx="11" width="380" height="24" fill="#e4e1dc"/>
+<rect x="445" y="112" width="850" height="355" fill="#b88a59"/>
+<rect x="820" y="148" width="335" height="250" rx="8" fill="#2c241e"/>
+<rect x="845" y="170" width="285" height="205" fill="#8d5f37"/>
+<text x="470" y="165" font-family="Arial" font-size="13" letter-spacing="4" fill="#342519">THE CREATIVE ECONOMY BELONGS TO EVERY ARTIST</text>
+<text x="470" y="225" font-family="Georgia,serif" font-size="48" fill="#17120e">Make Every Artwork</text>
+<text x="470" y="280" font-family="Georgia,serif" font-size="48" fill="#17120e">Easier to Prove, Present</text>
+<text x="470" y="335" font-family="Georgia,serif" font-size="48" fill="#17120e">and Earn From</text>
+<rect x="470" y="380" width="170" height="46" rx="23" fill="#17120e"/><text x="500" y="409" font-family="Arial" font-size="16" fill="#fff">Publish My Artwork →</text>
+<rect x="660" y="380" width="185" height="46" rx="23" fill="#efe8dc" stroke="#8a6c49"/><text x="692" y="409" font-family="Arial" font-size="16" fill="#2a2118">Explore as Collector →</text>
+<text x="470" y="520" font-family="Georgia,serif" font-size="40" fill="#17120e">Different disciplines.</text>
+<text x="470" y="565" font-family="Georgia,serif" font-size="40" fill="#17120e">One professional standard.</text>
+<rect x="470" y="620" width="235" height="130" rx="16" fill="#25211f"/><rect x="725" y="620" width="235" height="130" rx="16" fill="#d3b69a"/><rect x="980" y="620" width="235" height="130" rx="16" fill="#1f5560"/>
+</g>
+<rect x="1290" y="170" width="250" height="500" rx="28" fill="#fff" stroke="#ded8cf"/>
+<text x="1320" y="215" font-family="Arial" font-size="13" letter-spacing="3" fill="#9c6b32">A WORKSPACE FOR CREATORS</text>
+<text x="1320" y="280" font-family="Georgia,serif" font-size="36" fill="#18130f">A workspace for</text>
+<text x="1320" y="322" font-family="Georgia,serif" font-size="36" fill="#18130f">what you create</text>
+<text x="1320" y="364" font-family="Georgia,serif" font-size="36" fill="#18130f">next.</text>
+<g font-family="Arial" font-size="17" fill="#443d36"><text x="1320" y="430">✓ Showcase Your Work</text><text x="1320" y="480">✓ Discover Opportunities</text><text x="1320" y="530">✓ Grow Your Network</text><text x="1320" y="580">✓ Build Your Career</text></g>
+<text x="60" y="820" font-family="Georgia,serif" font-size="25" font-style="italic" fill="#8b633d">Presentation visual based on the live ARTBANK interface.</text>
 </svg>
