@@ -69,9 +69,9 @@ Buyers can discover artwork, save pieces, view public artist profiles, send stru
 
 ---
 
-### 3. Guardian & Admin Workflows
+### 3. Communication & Support
 
-The platform includes guardian oversight for protected minor accounts and separate administrator tools for platform operations, user management, moderation, records, and support.
+ARTBANK keeps artist–buyer communication inside the platform and includes a dedicated support-ticket flow for reporting issues and receiving follow-up from the ARTBANK team.
 
 ![ARTBANK messaging and support showcase](assets/artbank_communication_and_support_showcase.png)
 
